@@ -1,2 +1,2 @@
 #springboot starter
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.xianyu.xianyuopenapiclientsdk.XianYuOpenApiClientConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.xianyu.apiClientAdmin.XianYuOpenApiClientConfig

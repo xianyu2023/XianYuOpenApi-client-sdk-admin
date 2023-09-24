@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xianyu</groupId>
-    <artifactId>XianYuOpenApi-client-sdk</artifactId>
+    <artifactId>XianYuOpenApi-client-sdk-admin</artifactId>
     <version>0.0.1</version>
-    <name>XianYuOpenApi-client-sdk</name>
-    <description>XianYuOpenApi-client-sdk</description>
+    <name>XianYuOpenApi-client-sdk-admin</name>
+    <description>XianYuOpenApi-client-sdk-admin</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

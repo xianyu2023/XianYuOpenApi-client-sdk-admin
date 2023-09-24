@@ -1,4 +1,4 @@
-package com.xianyu.xianyuopenapiclientsdk.model;
+package com.xianyu.apiClientAdmin.model;
 
 import lombok.Data;
 

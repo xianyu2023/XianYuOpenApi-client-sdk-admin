@@ -1,4 +1,4 @@
-package com.xianyu.xianyuopenapiclientsdk.utils;
+package com.xianyu.apiClientAdmin.utils;
 
 import cn.hutool.crypto.digest.DigestAlgorithm;
 import cn.hutool.crypto.digest.Digester;

@@ -1,4 +1,4 @@
-# XianYuOpenApi-client-sdk
+# XianYuOpenApi-client-sdk-admin
 
 调用第三方接口客户端的SDK开发（创建starter）
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin http://gitlab.code-nav.cn/qjj/xianyuopenapi-client-sdk.git
+git remote add origin http://gitlab.code-nav.cn/qjj/XianYuOpenApi-client-sdk-admin.git
 git branch -M master
 git push -uf origin master
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](http://gitlab.code-nav.cn/qjj/xianyuopenapi-client-sdk/-/settings/integrations)
+- [ ] [Set up project integrations](http://gitlab.code-nav.cn/qjj/XianYuOpenApi-client-sdk-admin/-/settings/integrations)
 
 ## Collaborate with your team
 
