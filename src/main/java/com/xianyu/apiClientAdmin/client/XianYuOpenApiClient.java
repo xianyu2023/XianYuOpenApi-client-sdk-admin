@@ -84,6 +84,7 @@ public class XianYuOpenApiClient {
         hashMap.put("timestamp", String.valueOf(System.currentTimeMillis() / 1000));
         //签名。使用签名生成算法生成签名
         hashMap.put("sign",sign);
+        //额外携带的业务参数
         hashMap.put("id",id.toString());
         return hashMap;
     }
