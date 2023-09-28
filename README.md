@@ -1,6 +1,6 @@
 # XianYuOpenApi-client-sdk-admin
 
-调用第三方接口客户端的SDK开发（创建starter）
+调用第三方接口客户端的SDK开发仅平台内部用（创建starter）
 
 ## Getting started
 
